@@ -35,4 +35,3 @@ SERVER_PORT=9999
 $ npm start
 ```
 
-### License
